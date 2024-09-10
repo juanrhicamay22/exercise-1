@@ -1,0 +1,31 @@
+# My first simple script
+# Print a greeting message
+print("Hello, I'm Rhica May Juan! BSCS 3G")
+# Python Variables
+number = 221
+name = "Rhica May Juan"
+# Print the values of the variables
+print("Number:", number)
+print("Name:", name)
+# Python - Variable Names
+# Assuming the names of group members are Alice, Bob, and Charlie
+ahven = "Ahven"
+jess = "Jess"
+chyno = "Chyno"
+
+# Print the variable names and their values
+print("Ahven:", ahven)
+print("Jess:", jess)
+print("Chyno:", chyno)
+# Many Values to Multiple Variables
+x, y, z = 10, 20, 30
+# Print the values of the variables
+print("x:", x)
+print("y:", y)
+print("z:", z)
+# One Value to Multiple Variables
+a = b = c = 42
+# Print the values of the variables
+print("a:", a)
+print("b:", b)
+print("c:", c
